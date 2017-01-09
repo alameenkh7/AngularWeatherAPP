@@ -1,0 +1,24 @@
+.header {
+
+  background-image: ~/images/bg.png;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+
+.day {
+  background-image: ~/images/bg.png;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+
+.night {
+  background-image: ~/images/bg.png;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
